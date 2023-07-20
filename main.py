@@ -151,16 +151,3 @@ for entry in aggregated_neo_news:
     st.write(entry.link)
     st.write(entry.published)
     st.write("=" * 30)
-
-# Attributions
-# Asteroid Icon
-# <a href="https://www.flaticon.com/free-icons/asteroid" title="Asteroid icons">Asteroid icons created by Good Ware - Flaticon</a>
-
-# Diameter Icon
-# <a href="https://www.flaticon.com/free-icons/diameter" title="diameter icons">Diameter icons created by Freepik - Flaticon</a>
-
-# Speedometer Icon
-# <a href="https://www.flaticon.com/free-icons/diameter" title="diameter icons">Diameter icons created by Freepik - Flaticon</a>
-
-# Infinity Icon
-# <a href="https://www.flaticon.com/free-icons/infinity" title="infinity icons">Infinity icons created by kmg design - Flaticon</a>
