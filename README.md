@@ -26,11 +26,11 @@ In the future, I hope to host the NEO Dashboard on a website or server to make i
 ###Asteroid icons created by Good Ware
 https://www.flaticon.com/free-icons/asteroid
 
-###Diameter icons created by Freepik
+### Diameter icons created by Freepik
 https://www.flaticon.com/free-icons/diameter
 
-###Speedometer/Dashboard icons created by Vectors Market
+### Speedometer/Dashboard icons created by Vectors Market
 https://www.flaticon.com/free-icons/dashboard
 
-###Infinity icons created by kmg design
+### Infinity icons created by kmg design
 https://www.flaticon.com/free-icons/infinity
