@@ -23,7 +23,7 @@ The basic layout of the dashboard is three headers and a sidebar. The sidebar co
 In the future, I hope to host the NEO Dashboard on a website or server to make it easier to view. I also hope to add more data as well as complex data visualizations that provide more information about NEOs. Additionally, I wish to create a similar dashboard that provides important stats and data viz about exo-planets.
 
 ## Image Attributions - Flaticon
-###Asteroid icons created by Good Ware
+### Asteroid icons created by Good Ware
 https://www.flaticon.com/free-icons/asteroid
 
 ### Diameter icons created by Freepik
