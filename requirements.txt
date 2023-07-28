@@ -1,5 +1,0 @@
-feedparser==6.0.10
-numerize==0.12
-pandas==1.5.2
-plotly==5.15.0
-streamlit==1.17.0
